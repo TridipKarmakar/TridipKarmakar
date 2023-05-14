@@ -1,3 +1,4 @@
+![logo](https://github.com/TridipKarmakar/TridipKarmakar/blob/main/1325192.webp)
 <h1 align="center">Hi 👋, I'm Tridip Karmakar</h1>
 <h3 align="center">Bridging the Gap Between Finance and Data Science for Data-Driven Business Growth.</h3>
 
