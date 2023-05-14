@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tridip Karmakar</h1>
 <h3 align="center">Bridging the Gap Between Finance and Data Science for Data-Driven Business Growth.</h3>
 
-<img align = "right" alt = "coding" with = "100" src = "https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width ="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tridipkarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="tridipkarmakar" /> </p>
 
 - 🌱 I’m currently learning Data Science **From Pw Skills and i neuron**
