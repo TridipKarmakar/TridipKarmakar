@@ -3,7 +3,7 @@
 <h3 align="center">Bridging the Gap Between Finance and Data Science for Data-Driven Business Growth.</h3>
 
 <img align="right" alt="coding" width ="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-# 💫 About Me:
+## 💫 About Me:
 <br>🌱 I’m currently learning Data Science  From Pw Skills and Ineuron<br>💬 Ask me about Python, SQL, and statistics analysis<br>⚡ Fun fact I think I'm funny
 
 
