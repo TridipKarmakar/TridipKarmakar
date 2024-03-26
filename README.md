@@ -7,6 +7,15 @@
 <br>🌱 I’m currently learning Data Science  From Pw Skills and Ineuron<br>💬 Ask me about Python, SQL, and statistics analysis<br>⚡ Fun fact I think I'm funny
 
 
+
+
+
+
+
+
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Tridip#9529) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tridip-k-228b2017b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theinformalbong) 
 
